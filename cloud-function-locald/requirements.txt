@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+pandas>=0.23.4
+gcsfs>=0.1.2
+pandas-gbq>=0.6.1
+google-cloud-storage
+google-cloud-bigquery
